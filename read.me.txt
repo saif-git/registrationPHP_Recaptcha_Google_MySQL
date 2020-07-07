@@ -1,0 +1,29 @@
+this is an explaination about my task
+
+first of all I whould like to thank you for this chance cause I find this task was really useful for me especially with using all the libraries so I can check the email and go to send then registration.
+
+after that you send 2 different task and I choose the first one cause I find that time is to short also I have to prepare for some exams but I think that testing Sendgrid for the first time could be very useful
+
+in this answers you will find 3 folders which I make it So we can garanti the Architecture and use the MVC format
+
+you will model ,view and controller
+
+in model you will find my java script files to verifie the recaptcha and email by using bounced.io I use the Api_Key and XMLHttpRequest with java So I can use the server is API
+but this API is just temporaly cause it works for some times then it denied my access
+also I use recpatcha So I can verifie my heat recaptcha
+
+in controller you will find. the connect my mysql databases
+and recaptcha verification from the server side and that work if my response was success
+
+in the view you will find all my views the first one registration
+and after that if my email was not verifie there will be a welcom page after click on access link that send it from the email you can take the access and you will find all the people how registred with as and insert into my database with detail button that you can check out all the information for them
+
+
+outside that there is a senderEmail file wish is take the hands of sending the email using the sendgrid
+
+I whould like to thank you all for this chance hope my code goes well and sorry for design cause I really try
+
+kind regards.
+saifeddine jouini
+
+
